@@ -49,6 +49,7 @@ class Welcome extends Component {
               </Link>
               </center></h4>
             </div> 
+            <p>testDeploy</p>
           </div>
           <br />
           <br />
