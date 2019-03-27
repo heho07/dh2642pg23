@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+
+.bg-light {
+	background-color: #343a40 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(197,197,197,.5);
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	text-decoration: none !important; 
+	color: white;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.navbar-light .navbar-brand {
+	font-family: 'Cookie', cursive;
+    color: rgb(222, 222, 222);
+    font-size: 160%;
+}
+
+.dinnerPlannerHeader{
+
+	background-image: linear-gradient(to right, #a79b8d , #c1ad97);  
+	box-shadow: 0 3px 2px 0px grey;
+}
+
+.App-title {
+	font-family: 'Satisfy', cursive;
+	margin-left: 5%;
+	text-shadow: 1px 1px 2px white;
+}
